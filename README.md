@@ -11,6 +11,7 @@ We tried 3 activation function, ReLu, Sigmoid and tanh.Sigmoid and tanh performe
 We used only one hidden layer, because it was a simple dataset.  More hidden layer couldoverfit the data.We tried different combinations of neuron units in hidden layer and we got the best resultwith the 70 neuron units.
 
 We used 5000 epochs with early stopping function and learning rate scheduler parametertop avoid the overfitting.
+![WhatsApp Image 2021-11-28 at 11 15 47 PM](https://user-images.githubusercontent.com/64272528/143781616-8cd7fd7e-7194-46cc-990b-c431654c0a67.jpeg)
 
 Final mean square error on the complete dataset obtained is: 108.63. 
 
